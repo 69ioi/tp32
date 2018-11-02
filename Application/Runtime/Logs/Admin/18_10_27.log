@@ -1,0 +1,9 @@
+[ 2018-10-27T12:27:11+08:00 ] 127.0.0.1 /index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-10-27T12:28:36+08:00 ] 127.0.0.1 /index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-10-27T12:36:42+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showContent/id/9
+ERR: 非法操作:showContent
+

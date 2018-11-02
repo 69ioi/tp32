@@ -1,0 +1,10 @@
+[ 2018-10-31T19:29:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendbox.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT t1.*,t2.truename as truename FROM sp_email t1 LEFT JOIN sp_user as t2 on ' at line 1
+ [ SQL语句 ] : SELECT SELECT t1.*,t2.truename as truename FROM sp_email t1 LEFT JOIN sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 ) 
+
+[ 2018-10-31T20:16:31+08:00 ] 127.0.0.1 /index.php/Admin/Em%E4%B8%8Df/s%E8%8C%83%E5%BE%B7%E8%90%A8
+ERR: 模板不存在:./Application/Admin/View/Em不f/s范德萨.html
+
+[ 2018-10-31T20:17:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/inde
+ERR: 非法操作:inde
+

@@ -1,0 +1,117 @@
+[ 2018-10-22T08:40:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T08:40:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/Dept/showList.html
+ERR: 非法操作:Dept
+
+[ 2018-10-22T08:43:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/Dept/showList.html
+ERR: 非法操作:Dept
+
+[ 2018-10-22T08:43:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/Dept/showList.html
+ERR: 非法操作:Dept
+
+[ 2018-10-22T08:43:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/Dept/showList.html
+ERR: 非法操作:Dept
+
+[ 2018-10-22T08:43:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/Dept/showList.html
+ERR: 非法操作:Dept
+
+[ 2018-10-22T10:27:36+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 模板不存在:./Application/Admin/View/Dept/edit.html
+
+[ 2018-10-22T10:27:46+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 模板不存在:./Application/Admin/View/Dept/edit.html
+
+[ 2018-10-22T12:10:52+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/2
+ERR: Think\Model:svae方法不存在！
+
+[ 2018-10-22T12:42:02+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/id/
+ERR: 非法操作:del
+
+[ 2018-10-22T12:42:09+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/id/
+ERR: 非法操作:del
+
+[ 2018-10-22T12:54:34+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:54:35+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:54:36+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:54:37+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:57:21+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:57:22+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-10-22T12:57:26+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T12:57:27+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-10-22T12:57:27+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T12:57:28+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-10-22T12:57:28+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T12:57:28+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-10-22T12:57:29+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T12:57:29+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-10-22T12:57:29+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T15:19:55+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-10-22T15:19:58+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 模板不存在:./Application/Admin/View/User/add.html
+
+[ 2018-10-22T15:40:15+08:00 ] 127.0.0.1 /index.php/Admin/User/addOk
+ERR: 非法操作:addOk
+
+[ 2018-10-22T16:32:47+08:00 ] 127.0.0.1 /index.php/Admin/User/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-10-22T16:36:25+08:00 ] 127.0.0.1 /index.php/Admin/User/editOk
+ERR: 非法操作:editOk
+
+[ 2018-10-22T18:14:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T18:15:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T18:38:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T18:39:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T18:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2018-10-22T18:50:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T19:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2018-10-22T20:03:15+08:00 ] 127.0.0.1 /index.php/Admin/User/del/id/
+ERR: 非法操作:del
+

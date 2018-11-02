@@ -1,0 +1,27 @@
+[ 2018-10-28T10:26:31+08:00 ] 127.0.0.1 /index.php/Admin/info-reg.html
+ERR: 无法加载控制器:Info-reg
+
+[ 2018-10-28T10:26:32+08:00 ] 127.0.0.1 /index.php/Admin/info-mgt.html
+ERR: 无法加载控制器:Info-mgt
+
+[ 2018-10-28T10:26:32+08:00 ] 127.0.0.1 /index.php/Admin/info-det.html
+ERR: 无法加载控制器:Info-det
+
+[ 2018-10-28T12:50:25+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/12
+ERR: 非法操作:edit
+
+[ 2018-10-28T12:55:39+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/6
+ERR: 模板不存在:./Application/Admin/View/Doc/edit.html
+
+[ 2018-10-28T13:35:23+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/18
+ERR: Think\Model:updateData方法不存在！
+
+[ 2018-10-28T13:35:44+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/18
+ERR: Think\Model:updateData方法不存在！
+
+[ 2018-10-28T13:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/18
+ERR: Think\Model:updateData方法不存在！
+
+[ 2018-10-28T13:36:14+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/18
+ERR: Think\Model:updateData方法不存在！
+

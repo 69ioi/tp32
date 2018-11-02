@@ -1,0 +1,32 @@
+[ 2018-10-25T20:35:33+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 非法操作:charts
+
+[ 2018-10-25T20:36:42+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 模板不存在:./Application/Admin/View/User/charts.html
+
+[ 2018-10-25T20:37:22+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 模板不存在:./Application/Admin/View/User/charts.html
+
+[ 2018-10-25T20:37:55+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 模板不存在:./Application/Admin/View/User/charts.html
+
+[ 2018-10-25T21:09:23+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1054:Unknown column 'sp_name' in 'field list'
+ [ SQL语句 ] : select sp_name,sum(sp_user.name) as sum from sp_user as t1 inner join sp_dept as t2 on t1.pid = t2.id group by t1.name
+
+[ 2018-10-25T21:10:10+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1054:Unknown column 't1.name' in 'field list'
+ [ SQL语句 ] : select t2.name,sum(t1.name) as sum from sp_user as t1 inner join sp_dept as t2 on t1.pid = t2.id group by t1.name
+
+[ 2018-10-25T21:14:19+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count from sp_user as t1,sp_dept as t2 on t1.dept_id = t2.id group by dept' at line 1
+ [ SQL语句 ] : select t2.name as deptname,count(t1.*) as count from sp_user as t1,sp_dept as t2 on t1.dept_id = t2.id group by deptname
+
+[ 2018-10-25T21:14:37+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on t1.dept_id = t2.id group by deptname' at line 1
+ [ SQL语句 ] : select t2.name as deptname,count(*) as count from sp_user as t1,sp_dept as t2 on t1.dept_id = t2.id group by deptname
+
+[ 2018-10-25T21:30:01+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'joinsp_dept as t2 on t1.dept_id = t2.id group by t2.name' at line 1
+ [ SQL语句 ] : select t2.name as deptname,count(*) as count from sp_user as t1 inner joinsp_dept as t2 on t1.dept_id = t2.id group by t2.name
+

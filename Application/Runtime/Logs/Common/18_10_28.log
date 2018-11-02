@@ -1,0 +1,6 @@
+[ 2018-10-28T10:25:36+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-10-28T10:30:04+08:00 ] 127.0.0.1 /index.pph/Admin/Test/test29
+ERR: 无法加载模块:Index.pph
+
